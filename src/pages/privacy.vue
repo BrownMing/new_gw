@@ -431,6 +431,6 @@ const appName = 'NEWNEW'
   .bt {
     font-size: 20px;
     margin: 6px 0px;
-    color: #7f1146;
+    color: #000;
   }
 </style>
