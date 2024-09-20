@@ -3,434 +3,298 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Nuuna'
+const emailAddress = '@'
 </script>
 
 <template>
-  <div class="protocol">
-    <div class="bt" style="text-align: center">
-      {{ appName }}'s Privacy Policy
+  <div class="agreement">
+    <div class="T_title_main">
+      Terms of Use
     </div>
-    The use of {{ appName }} through mobile applications may involve collection and use
-    of your information. This Privacy Policy explains and informs you how your
-    information is collected, used and disclosed by {{ appName }} with respect to your
-    access and use of our services through our mobile applications. It is
-    important for you to understand this Privacy Policy and how you may protect
-    your information, so please read this Privacy Policy carefully.
-    <br>
-    <div class="bt">
-      1. Application Scope of this Privacy Policy
+    <div class="T_content">
+      Welcome to {{ appName }}.
+By accessing or using the {{ appName }} mobile application, whether through a mobile device or computer (collectively, the “Service”), you agree to be bound by these Terms of Use (this “Agreement”), whether or not you create a {{ appName }} account. If you wish to create a {{ appName }} account and use the Services, Please review the terms described herein carefully.
     </div>
-    1.1By using {{ appName }}, you agree that we may access, collect, use and share your
-    information in accordance with this Privacy Policy, as revised from time to
-    time. In addition, your use of {{ appName }} signifies that you agree with the terms
-    of this Privacy Policy. If you do not agree to the terms of this Privacy
-    Policy, do not use {{ appName }}.
-    <br><br>
-    1.2This Privacy Policy is incorporated into and forms part of the {{ appName }}
-    Terms of Service that you have agreed to in order to use {{ appName }}. Any terms
-    used in this Privacy Policy will have the same meaning as the equivalent
-    defined terms in the {{ appName }} Terms of Service unless otherwise defined in this
-    Privacy Policy or the context requires otherwise. Unless otherwise specified
-    in this Privacy Policy, these terms in the {{ appName }} Terms of Service shall also
-    be applicable in this Privacy Policy.
-    <br><br>
-    1.3Any information that is collected is subject to the Privacy Policy in
-    effect at the time such information is collected. We may, however, modify
-    and revise our Privacy Policy from time to time. If we make any change to
-    this policy, which we deem to be material changes, with or without
-    notification, you are agreeing to be bound by the revised policy.
-    <br><br>
-    1.4 {{ appName }} may link you to social media or other features or services
-    (including websites, plug-ins and widgets) provided by a third party. Please
-    note that this Privacy Policy doesn’t apply to the information collected by
-    any third-party websites, services or applications that can be accessed
-    through our services, and does not apply to the information collected by
-    other companies and organizations who advertise their services on {{ appName }}. We
-    bear no liability for any third party use of any information provided by you
-    to them.
-    <br><br>
-    2. We obtain information about you through the means discussed below when we
-    provide the {{ appName }} Services. Please note that we need certain types of
-    information so that we can provide the {{ appName }} Services to you.
-    <br><br>
-    1).User-provided Information
-    <br><br>
-    2).Automatically Collected Information for Legitimate Interests
-    <br><br>
-    User-provided Information
-    <br><br>
-    1) Information provide to us when you open a {{ appName }} account, including your
-    nickname, gender, date of birth, country, age,email,password,social media
-    account information (profile photo,Video), and any tags you posted about
-    yourself;
-    <br><br>
-    2)Any information included in your {{ appName }} profile which are visible to other
-    users of {{ appName }}, or information you make available to us via your use of
-    {{ appName }}, which may include your photos, gender;
-    <br><br>
-    3) User-generated content (" UGC "), such as comments, text, messages,
-    pictures, images, videos, sounds, code, or other data or material that you
-    upload, distribute, or stream on the Application while using the {{ appName }}
-    Service;
-    <br><br>
-    4) Payment information, such as bank account number, Paypal or other payment
-    information to be paid;
-    <br><br>
-    5) Transaction information such as transaction number and transaction
-    history after you purchase the paid service;
-    <br><br>
-    6) Your opt-in and communication with us, such as information used to
-    validate your account or address your feedback or complaint and information
-    you provide when participating in in-app surveys and activities.
-    <br><br>
-    7) Information provided by you from social media when you create a {{ appName }}
-    account by connecting to or associating a {{ appName }} account with a third party
-    social media account (e.g., Facebook, Google);
-    <br><br>
-    2.Automatically Collected Information for Legitimate Interests
-    <br><br>
-    ⊙ Data about your Accounts on other Services: If your social media or other
-    online accounts are associated with your accounts on our services, we may
-    obtain certain information through those accounts. If you log in to our
-    services through Facebook or other third party platforms, we ask for your
-    permission to access certain information about that other account. For
-    example, depending on the platform or service, we may collect your name,
-    profile picture, gender, information and date of birth, including
-    information from Google: The Unique ID for the Google Account; ID token;
-    Facebook: AccessToken. These platforms and services provide us with
-    information through their apis. The information we receive depends on the
-    information you decide to provide us (through your privacy Settings) or the
-    platform or service. If you access or use our services through third party
-    platforms or services or click on any third party links, the collection, use
-    and sharing of your data will also be governed by the privacy policies and
-    other agreements of such third party.
-    <br><br>
-    ⊙Device identifiers, such as your operating system, browser type, brand,
-    model and mobile device serial number, Internet Protocol (IP) address,
-    mobile operator, screen resolution, language Settings, IMEI number, IMSI
-    number, and media access control address;
-    <br><br>
-    ⊙Network activity information, such as your browsing history, search
-    history, videos or pages you visited, the dates and times you visited, other
-    user accounts you subscribed to, and information about your interactions
-    with other users;
-    <br><br>
-    ⊙We also collect error-reporting information if the Service crashes or hangs
-    up so that we can investigate the error and improve the stability of the
-    Service for future releases. In general these reports do not contain
-    personally identifiable information, or only incidentally. As part of these
-    error reports, we receive information about the type and version of your
-    device, the device identifier, the time the error occurred, the feature
-    being used and the state of the application when the error occurred. We do
-    not use this information for any purpose other than investigating and fixing
-    the error.
-    <br><br>
-    ⊙Information about your access to and use of other applications;
-    <br><br>
-    ⊙Metadata, associated with the UGC you provide to us, describes other data
-    and provides information about how, when, and by whom the UGC clips are
-    collected and the format of the UGC, such as subject tags and subtitles used
-    to tag video keywords;
-    <br><br>
-    We may also collect, use and share your information to generate and share
-    summary insights that do not identify you.Aggregated data may be derived
-    from your personal information but is not considered personal information
-    because the data does not directly or indirectly identify you.For example,
-    we may aggregate your usage data to calculate the percentage of users who
-    visit a particular site feature, to generate statistics about our users, to
-    calculate the percentage of users who visit a particular site feature, or to
-    calculate the number of AD displays placed or clicked.
-    <br><br>
-    <div class="bt">
-      2.Special Note about Sensitive Personal Information
+
+    <!--  -->
+    <div class="T_title">
+      CONTACTING US
     </div>
-    To provide certain features (e.g. online video calling), we must access your
-    microphone, camera, with your permission, as described below:
-    <br><br>
-    1)Microphone: We access the microphone on your device (with your permission)
-    to record audio messages and deliver sound during video calls.
-    <br><br>
-    2)Camera: We access the camera on your device (with your permission) to take
-    your profile pictures and deliver realtime images during video calls.
-    <br><br>
-    By using {{ appName }}, you agree that all processing activities of sensitive
-    personal information are for the purposes and in the manner as described in
-    this Privacy Policy.
-    <br><br>
-    Please note that we do not use your sensitive personal information for the
-    purpose of making direct marketing unless agreed by you.
-    <br><br>
-    2.3Special Note about Children’s Information The services of {{ appName }} are only
-    applicable to users of 18 years old or more. We do not allow users under 18
-    years old to access our platform, and will not knowingly collect the
-    personal information of users under 18 years old.
-    <br><br>
-    <div class="bt">
-      3.How We Use the Information We Collect
+    <div class="T_content">
+      If you have any questions about this Terms of Use, please contact us: {{ emailAddress }}.
     </div>
-    We use or may disclose your personal information only in the following
-    circumstances: Verify your identity;
-    <br><br>
-    1) Connect you to others enabled by the Service;
-    <br><br>
-    2) Sharing your personal information with others on the Service;
-    <br><br>
-    3) Allows you to use certain features of services that may be provided from
-    time to time. Show you the name of the person you are communicating with and
-    show you the name of the person you are communicating with on the service;
-    <br><br>
-    4) Send you any administrative notification alerts and communications
-    related to your use of the Services;
-    <br><br>
-    5) To provide you with information that you have allowed us to collect from
-    you or that you have provided to social media providers associated with your
-    {{ appName }} account Relevant content you requested, such as information about your
-    location and that of your {{ appName }} contact;
-    <br><br>
-    6) Contact you by email, text message or other means to notify you of new
-    products, services or promotions on offer.for internal operations Conduct,
-    including troubleshooting, data analysis, testing, research, service
-    improvement, detection and prevention of error, fraud or other illegal;
-    Activities;
-    <br><br>
-    7) When we sincerely believe that the law, any legal process, law
-    enforcement, national security, or issue of public importance requires
-    disclosure: To protect and defend our rights or property (including
-    enforcing our terms of use and other agreements); or
-    <br><br>
-    8)Relating to corporate transactions involving {{ appName }}, such as the purchase
-    or sale of business units, acquisitions, mergers, sale of assets or other
-    similar events.
-    <br><br>
-    {{ appName }} allows you to share text messages, photos, screenshots, videos and
-    other communications in the {{ appName }} application with other users, and if you
-    choose to do so your text messages, photos, screenshots, videos and other
-    communications will be stored on our servers. In addition, if you choose to
-    share these items with other {{ appName }} users, we may not be able to remove them
-    from our servers or make them unavailable to anyone you have shared them
-    with. Sending and sharing text messages, photos, screenshots, videos or
-    other communications in the {{ appName }} application is your decision. By choosing
-    to share that information, you should understand that you may no longer be
-    able to control how that information is used and that it may become publicly
-    available (depending in part on your actions or the actions of others with
-    whom you have shared the information). {{ appName }} is not responsible for any use
-    or misuse of information you share.
-    <br><br>
-    3.2 Transfer and Storage
-    <br><br>
-    We operate and may continue to operate servers in a number of jurisdictions
-    around the world, so the server on which your personal information is used
-    and stored may not be in your jurisdiction.
-    <br><br>
-    You consent to the transfer of your personal information (both inside and
-    outside of your jurisdiction) for the purposes described in this Privacy
-    Policy.
-    <br><br>
-    3.3 analysis
-    <br><br>
-    The main reason we use your information is to provide and improve our
-    services. In addition, we use your information to help keep you safe. Read
-    on to learn more about the various reasons we use your information, as well
-    as practical examples.
-    <br><br>
-    1) Third Party Usage Analysis Tools: We use the tools provided by Google Inc
-    (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, "Google") for
-    usage analysis in our services. Tools owned by Firebase and acquired by
-    Google are used to measure usage. Firebase, run by Google, is also used for
-    usage analysis purposes.
-    <br><br>
-    2) Third party Conversion tracking tool: AppsFlyer, Google conversion
-    tracking API and Facebook Conversion tracking API for user conversion
-    tracking.
-    <br><br>
-    3) Crash detection tool: We used the Firebase owned Crashlytics tool for
-    crash detection. It helps maintain and improve services. All of your crash
-    data is collected anonymously.
-    <br><br>
-    3.4 Share your information
-    <br><br>
-    Your information is shared with others in the following ways: Sharing on our
-    products
-    <br><br>
-    1) Without your consent, we will not rent or sell your information to a
-    third party (or a group of companies to which {{ appName }} belongs), except as
-    otherwise stated in this Privacy Policy with whom we may share your
-    information:
-    <br><br>
-    2) We may share user content and your information (including but not limited
-    to information from cookies, log files, device identifiers, bit data and
-    usage data) with or become part of a group of businesses that are legally
-    part of {{ appName }}'s group of companies (" Affiliates ").Affiliates may use this
-    information to help provide, understand, and improve services (including by
-    providing analytics) and their own services (including by providing you with
-    a better, more relevant experience).But these affiliates will respect the
-    choices you make about who can see your content.
-    <br><br>
-    3) We may also share your information and information from tools such as
-    cookies, log files, device identifiers and location data with third party
-    organizations that help us provide services to you (the "Service
-    Provider").Our service providers will be granted access to your information
-    in order to provide services under reasonable confidentiality terms.
-    <br><br>
-    4) We may also share aggregate or anonymous information with third parties,
-    including advertisers and investors.For example, we might tell our
-    advertisers how many users our app has received.This information does not
-    contain any personal or personally identifiable information and is used to
-    develop content and services that we hope you will be interested in.
-    <br><br>
-    5) We may delete some data that can identify you and share your name data
-    with other parties.We may also combine your information with other
-    information in ways that are no longer associated with you and share this
-    aggregate information, and you may choose the parties with whom you share
-    your user content:
-    <br><br>
-    6) Any information or content that you voluntarily disclose to publish to
-    the Service, such as user content, will be made available to the public.
-    With this feature, {{ appName }} can prevent demand frenzy.Once you share user
-    content or make it public, that user content may be re-shared by others;
-    <br><br>
-    7) If you delete information and content that you create on the Service (for
-    example, screen shots, etc.), the copy may remain visible in the Service's
-    cache and archived pages, or if other users or third parties have copied or
-    saved the information (for example, Facebook, etc.).
-    <br><br>
-    3.5 Security Measures We Take to Protect Your Information
-    <br><br>
-    We employ administrative, physical and electronic measures designed to
-    protect your information from unauthorized access, however, despite these
-    efforts, no security measures are perfect or impenetrable and no method of
-    data transmission can be guaranteed against any interception or other type
-    of misuse. In the event that your personal information is compromised as a
-    result of a breach of security, we will promptly notify you if your personal
-    information has been compromised, as required by applicable law.
-    <br><br>
-    Where we do share your personal information with any third parties, we will
-    use reasonable efforts to ensure that such third parties only use your
-    personal information:
-    <br><br>
-    (i)in compliance with this Privacy Policy;
-    <br><br>
-    (ii) subject to any other instructions we give them, including any
-    appropriate confidentiality and security measures that we implement.
-    <br><br>
-    <div class="bt">
-      4.How to Access Your Information
+
+    <!-- 1 -->
+    <div class="T_title">
+      1. ACCOUNT ELIGIBILITY; YOUR RESPONSIBILITIES
     </div>
-    You can access and modify the information you provided to us through your
-    account.
-    <br><br>
-    If you believe your information posted on {{ appName }} is not authentic or accurate
-    and can provide us with reasonable proof regarding this, you can require us
-    via the contact information provided in this Privacy Policy to correct these
-    unauthentic or inaccurate information and we will use reasonable efforts to
-    honour your request; however, we may retain an archived copy of your
-    information as required by law and/or for record keeping purposes.
-    <br><br>
-    Once your account is closed or deleted, you will no longer have access to
-    your message history, preferences or any other information associated with
-    your use of our services. Even after you remove information from your
-    account or profile, copies of that information may remain viewable
-    elsewhere, to the extent it has been shared with others, it was otherwise
-    distributed pursuant to your privacy settings, or it was copied or stored by
-    other users. Additionally, we will retain your personal data even after you
-    have closed your account if reasonably necessary to comply with our legal
-    obligations (including law enforcement requests), meet regulatory
-    requirements, resolve disputes, maintain security, prevent fraud and abuse,
-    or enforce the Terms of Service. We will retain de-personalized information
-    after your account has been closed.
-    <br><br>
-    In some cases, we may not be able to update, amend or remove your personal
-    information, in which case we will let you know why we are unable to do so,
-    for example, certain requests may require disproportionate technical effort
-    or extremely impractical, or are prohibited by law.
-    <br><br>
-    Since {{ appName }} will be used in multiple jurisdictions and we may not be
-    possible to identify all the inconsistency between certain terms of this
-    Privacy Policy and the applicable law in your jurisdiction, thus you agree
-    to notify us once such inconsistency is identified by you. Under this
-    circumstance we will take necessary methods to eliminate such inconsistency,
-    including deleting these personal information improperly collected or used
-    by us.
-    <br><br>
-    <div class="bt">
-      5. Data access and deletion
+    <div class="T_title_secondary">
+      Before you create an account on {{ appName }}, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant {{ appName }}.
+      <br><br>
+      You are not authorized to create an account or use the Services unless all of the following are true, and by using our Services, you represent and warrant that:
     </div>
-    You always have control over what information you choose to share with us on
-    the Services. To do this, you can change the Settings in the service or on
-    the mobile device. Alternatively, you can delete this service completely
-    from your mobile device and you can delete your data at any time. If you
-    request us to delete your account, we will use commercially reasonable
-    efforts to delete your data from our servers.
-    <br><br>
-    Text messages, photos, videos or any other personally identifiable
-    information that you share in or through the {{ appName }} App with other users or
-    submit in blogs, bulletin boards or chat rooms on our website or elsewhere
-    may be viewed and used by others, These include sending you unsolicited
-    messages or identity theft. {{ appName }} is not responsible for any use or misuse
-    of your information resulting from the disclosure of your information
-    <br><br>
-    <div class="bt">
-      6. Security
+    <div class="T_content" style="padding-left: 35px;">
+      <li>
+        You are an individual (i.e., not any body corporate, partnership or other business entity) at least 17 years old;
+      </li>
+      <li>
+        You are not on any list of individuals prohibited from conducting business with the United States (for example, the U.S. Treasury Department’s list of Specially Designated Nationals or any similar government agency list) nor do you face any other similar prohibition);
+      </li>
+      <li>
+        You are not prohibited by law from using our Services;
+      </li>
+      <li>
+        You have not committed, been convicted of, or pled no contest to a felony or indictable offense (or crime of similar severity), a sex crime, or any crime involving violence or a threat of violence, unless you have received clemency for a non-violent crime and we have determined that you are not likely to pose a threat to other users of our Services;
+      </li>
+      <li>
+        You are legally qualified to enter a binding contract with {{ appName }};
+      </li>
+      <li>
+        You are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country;
+      </li>
+      <li>
+        You are not required to register as a sex offender with any state, federal or local sex offender registry;
+      </li>
+      <li>
+        You do not have more than one account on our Services;
+      </li>
+      <li>
+        You have not previously been removed from our Services or our affiliates’ services by us or our affiliates, unless you have our express written permission to create a new account.
+      </li>
     </div>
-    Protecting user privacy and personal information is a top priority at {{ appName }},
-    and we make significant efforts to ensure the privacy of all personally
-    identifiable information you provide to us.Access to all personally
-    identifiable information is limited to {{ appName }} employees, contractors, agents
-    and third party service providers who want to know this information in order
-    to provide, operate and develop it.Maintenance, support can be political
-    into the service.
-    <br><br>
-    <div class="bt">
-      7. Age
+    <div class="T_title_secondary">
+      If at any time you cease to meet these requirements, all authorization to access our Services or systems is automatically revoked, and you must immediately delete your account, and we retain the right to remove your access to our Services without warning.
+      <br>
+      You agree to:
     </div>
-    This service is not targeted at children under the age of eighteen (18) and
-    we do not knowingly accept or sell personally identifiable information from
-    children under the age of eighteen as part of our service. If we become
-    aware that we have inadvertently received personally identifiable
-    information from users under 18 years of age in our Services, we will remove
-    such information from our records. If we change our practices in the future,
-    as part of the service, we will obtain prior, verifiable parental consent
-    before collecting any personally identifiable information from children
-    under 18 years of age.
-    <br><br>
-    <div class="bt">
-      8. Change notification
+    <div class="T_content" style="padding-left: 35px;">
+      <li>Comply with these Terms, and check this page from time to time to ensure you are aware of any changes;</li>
+      <li>Comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, and regulatory requirements;</li>
+      <li>Use the latest version of the Website and/or App;</li>
+      <li>Take reasonable measures to protect the security of your login information.</li>
     </div>
-    We reserve the right to change this Privacy Policy at our sole discretion.
-    You can view updates to our privacy policy at any time through the link on
-    our website. You agree to accept the Posting of {{ appName }} electronic newsletter
-    and/or the revised Privacy Policy. And you agree that such electronic
-    communications or posts constitute a notice to you of the Privacy Policy. We
-    reserve the right to revise this policy from time to time, so please check
-    often. If we make material changes to this Policy, we will notify you by
-    Posting a revised Privacy Policy or by means of a notice on our website or
-    legal requirements. You agree to periodically review the Privacy Policy so
-    that you are aware of any changes. You agree that your continued use of the
-    Service after we publish the revised Privacy Policy or provide notice on our
-    website means that you accept the revised Privacy Policy. If you do not
-    agree to the terms of the Privacy Policy, you should not use the Service.
-    <br><br>
-    <div class="bt">
-      9. Contacting Us
+    <div class="T_title_secondary">
+      You agree that you will not:
     </div>
-    If you have any questions about our Privacy Policy or any privacy-related
-    matters, please contact us via email at 【{{ appName }}@{{ appName }}.site】.
-    <br><br>
+    <div class="T_content" style="padding-left: 35px;">
+      <li>Misrepresent your identity, age, or affiliations with a person or entity;</li>
+      <li>Use the Services in a way that damages the Services or prevents their use by other users;</li>
+      <li>Use our Services in a way to interfere with, disrupt or negatively affect the platform, the servers, or our Services' networks;</li>
+      <li>Use our Services for any harmful, illegal, or nefarious purpose, including, but not limited to, using any In-App Items for purposes of money laundering or other financial crimes;</li>
+      <li>Harass, bully, stalk, intimidate, assault, defame, harm or otherwise abuse or cause psychological harm to any other user of the Services;</li>
+      <li>Post, display or share Prohibited Content (see below);</li>
+      <li>Solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other users or disseminate another person's personal information without his or her permission;</li>
+      <li>Solicit money or other items of value from another user, whether as a gift, loan, or form of compensation;</li>
+      <li>Use our Services in relation to fraud, a pyramid scheme, or other similar practice;</li>
+      <li>Use our Services in relation to any political campaign financing or for the purpose of influencing any election, other than sharing your own personal political opinions.</li>
+      <li>Use meta tags or code or other devices containing any reference to a third party platform (or any trademark, trade name, service mark, logo or slogan of a third party), with the intention and/or objective to direct any user of the Service to any other website for any purpose;</li>
+      <li>Modify, adapt, sublicense, translate, sell, reverse engineer, decipher, decompile or otherwise disassemble any portion of our Services, or cause others to do so;</li>
+    </div>
+    <div class="T_title_secondary">
+      Prohibited Content - {{ appName }} prohibits displaying or sharing content that:
+    </div>
+    <div class="T_content" style="padding-left: 35px;">
+      <li>Could reasonably be deemed to be offensive or to harass, abuse or cause psychological distress to another person;</li>
+      <li>Is obscene, pornographic, violent or contains nudity;</li>
+      <li>Is abusive, threatening, discriminatory or that promotes or encourages racism, sexism, hatred or bigotry;</li>
+      <li>Encourages or facilitates any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offense;</li>
+      <li>Encourages or facilitates any activity that may result in harm to the user or another person, including, but not limited to, promotion of self-harm, eating disorders, dangerous challenges, violent extremism,</li>
+      <li>Is defamatory, libelous, or untrue;</li>
+      <li>Relates to commercial activities (including, without limitation, sales, competitions, promotions, and advertising, solicitation for services, sex work, "sugar daddy" or "sugar baby" relationships, links to other websites or premium line telephone numbers);</li>
+      <li>Involves or facilitates the transmission of spam;</li>
+    </div>
+    <!-- 2 -->
+    <div class="T_title">
+      2. CONTENT
+    </div>
+    <div class="T_title_secondary">
+      It is important that you understand your rights and responsibilities with regard to the content on our Services, including any content you provide, share or post. You are expressly prohibited from posting inappropriate content.
+    </div>
+    <div class="T_content">
+      While using our Services, you will have access to: (i) content that you upload, display, share or provide while using our Services, even if suggested by our Services ("Your Content"); (ii) content that other users upload, display, share or provide while using our Services ("Member Content"); and (iii) content that {{ appName }} provides on and through our Services ("Our Content"). In this agreement, "content" includes, without limitation, all text, images, video, audio, or other material on our Services, including information on users' profiles and in direct messages between users.
+      <br><br>
+      You are solely responsible and liable for Your Content, and, therefore, you agree to indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content.
+      <br><br>
+      You represent and warrant to us that the information you provide to us or any other user is accurate, including any information submitted through any other third-party sources (if applicable), and that you will update your account information as necessary to ensure its accuracy.
+      <br><br>
+      The content included on your individual profile should be relevant to the intended use of our Services. You may not share any Prohibited Content, and your content must further comply with the Community Guidelines. You may not display any personal contact, banking information, or peer-to-peer payment information, whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card, peer-to-peer payment user name, or other banking details). IF YOU CHOOSE TO REVEAL ANY PERSONAL INFORMATION ABOUT YOURSELF TO OTHER USERS, YOU DO SO AT YOUR OWN RISK. WE STRONGLY ENCOURAGE YOU TO USE CAUTION IN DISCLOSING ANY PERSONAL INFORMATION ONLINE.
+      <br><br>
+      Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you share. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. By sharing and/or streaming Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so and automatically grant us a license to use Your Content as provided under Section 7 below.
+      <br><br>
+      We may provide tools and features to enhance individual expression through Your Content and Member Content, and we’re constantly developing new technologies to improve our Services. Certain tools or features may allow you to generate or enhance content based on Your Content. This is still Your Content, and you are responsible for it and its accuracy, as well as your use of it on our Services and any and all decisions made, actions taken, and failures to take action based on Your Content. Be careful in choosing and sharing Your Content.
+      <br><br>
+      You understand and agree that we may monitor or review Your Content, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time at our sole discretion. Furthermore, you understand and agree that we have no obligation to display or review Your Content.
+      <br><br>
+      Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, images, and other intellectual property appearing on our Services is owned, controlled or licensed by us and protected by copyright, trademark and other intellectual property law rights. All rights, title, and interest in and to Our Content remains with us at all times.
+      <br><br>
+      We grant you a limited license to access and use our content, and we reserve all other rights.
+    </div>
+
+    <!-- 3 -->
+    <div class="T_title">
+      3. INAPPROPRIATE CONTENT AND MISCONDUCT; REPORTING
+    </div>
+    <div class="T_title_secondary">
+      {{ appName }} does not tolerate inappropriate content or behavior on our Services.
+    </div>
+    <div class="T_content">
+      We are committed to maintaining a positive, respectful community, and we do not tolerate any inappropriate content or inappropriate behavior, whether on or off the Service (including, but not limited to, services operated by our affiliates). We encourage you to report any inappropriate Member Content or inappropriate behavior by other users. You can report a user directly by clicking the shield icon in the user's profile or messaging experience. You can also contact customer support.
+      <br><br>
+      As described in our Privacy Policy, we may share data among our affiliates to ensure the safety of our users. If we believe that you have violated these terms, we may take necessary action, including prohibiting you from using our Services and/or the services of our affiliates, and/or preventing you from creating new accounts. You understand and agree that we may not share information about your account with you if doing so may compromise the safety or privacy of our other users.
+    </div>
+
+    <!-- 4 -->
+    <div class="T_title">
+      4. RIGHTS YOU ARE GRANTED BY {{ appName }}
+    </div>
+    <div class="T_title_secondary">
+      {{ appName }} grants you the right to use and enjoy our Services, subject to these Terms.
+    </div>
+    <div class="T_content">
+      For as long as you comply with these Terms, {{ appName }} grants you a personal, worldwide, royalty-free, non-assignable, non-exclusive, revocable, and non-sublicensable license to access and use our Services for purposes as intended by {{ appName }} and permitted by these Terms and applicable laws. This license and any authorization to access the Service are automatically revoked in the event that you fail to comply with these Terms.
+    </div>
+
+    <!-- 5 -->
+    <div class="T_title">
+      5. RIGHTS YOU GRANT {{ appName }}
+    </div>
+    <div class="T_title_secondary">
+      You own all of the content you provide to {{ appName }}, but you also grant us the right to use Your Content as provided in this Agreement.
+    </div>
+    <div class="T_content">
+      By creating an account, you grant to {{ appName }} a worldwide, perpetual, transferable, sub-licensable, royalty-free right and license to host, store, use, copy, display, reproduce, adapt, edit, publish, translate, modify, reformat, incorporate into other works, advertise, distribute and otherwise make available to the general public Your Content, including any information you authorize us to access from any other third-party sources (if applicable), in whole or in part, and in any way and in any format or medium currently known or developed in the future. {{ appName }}'s license to Your Content shall be non-exclusive, except that {{ appName }}'s license shall be exclusive with respect to derivative works created through use of our Services. For example, {{ appName }} would have an exclusive license to screenshots of our Services that include Your Content.
+      <br><br>
+      In addition, so that {{ appName }} can prevent the use of Your Content outside of our Services, you authorize {{ appName }} to act on your behalf with respect to infringing uses of Your Content taken from our Services by other users or third parties. This expressly includes the authority, but not the obligation, to send notices pursuant to 17 U.S.C. § 512(c)(3) (i.e., DMCA Takedown Notices) on your behalf if Your Content is taken and used by third parties outside of our Services. {{ appName }} is not obligated to take any action with regard to use of Your Content by other users or third parties. {{ appName }}'s license to Your Content is subject to your rights under applicable law (for example, laws regarding personal data protection to the extent the content contains personal information as defined by those laws).
+      <br><br>
+      In consideration for {{ appName }} allowing you to use our Services, you agree that we, our affiliates, and our third-party partners may place advertising on our Services. By submitting suggestions or feedback to {{ appName }} regarding our Services, you agree that {{ appName }} may use and share such feedback for any purpose without compensating you.
+      <br><br>
+      You agree that {{ appName }} may access, preserve, and disclose your account information, including Your Content, if required to do so by law or upon a good faith belief that such access, preservation, or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce these Terms; (iii) respond to claims that any content violates the rights of third parties; (iv) respond to your requests for customer service; (v) protect the rights, property or personal safety of the Company or any other person, or (vi) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
+      <br><br>
+    </div>
+
+    <!-- 6 -->
+    <div class="T_title">
+      6. IN APP PURCHASES
+    </div>
+    <div class="T_content">
+      From time to time, {{ appName }} may offer additional products and services for purchase through the App Store ℠, Google Play or other application platforms ("in app purchases"). If you choose to make an in app purchase, you will be prompted to enter details for your account with the mobile platform you are using (e.g., Apple, Android, etc.) ("your IAP Account"), and your IAP Account will be charged for the in app purchase in accordance with the terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your IAP Account. If you purchase an auto-recurring periodic subscription through an in app purchase, your IAP Account will be billed continuously for the subscription until you cancel in accordance with the platform terms. In call cases, please refer to the terms of your application platform which apply to your in app purchases. {{ appName }} do not have any obligation to terminate your subscription or membership, but you can claim a refund or cancel the subscription through App Store or Google Play at any time.
+    </div>
+
+    <!-- 7 -->
+    <div class="T_title">
+      7. ACCOUNT TERMINATION
+    </div>
+    <div class="T_title_secondary">
+      If you no longer wish to use our Services, or if we terminate your account for any reason, here's what you need to know.
+    </div>
+    <div class="T_content">
+      You can delete your account at any time by logging into the Website or App, going to “Account settings” on my profile Settings, clicking "Delete Account", and following the instructions to complete the deletion process. However, you will need to cancel / manage any External Service Purchases through your External Service Account (e.g., iTunes, Google Play) to avoid additional billing.
+      <br><br>
+      {{ appName }} reserves the right to investigate and, if appropriate, suspend or terminate your account without a refund if {{ appName }} believes that you have violated these Terms, misused our Services, or behaved in a way that {{ appName }} regards as inappropriate or unlawful, on or off our Services. We reserve the right to make use of any personal, technological, legal, or other means available to enforce the Terms, at any time without liability and without the obligation to give you prior notice, including, but not limited to, preventing you from accessing the Services.
+      <br><br>
+      If your account is terminated by you or by {{ appName }} for any reason, these Terms continue and remain enforceable between you and {{ appName }}, and you will not be entitled to any refund for purchases made. Your information will be maintained and deleted in accordance with our Privacy Policy.
+    </div>
+
+    <!-- 8 -->
+    <div class="T_title">
+      8. NO CRIMINAL BACKGROUND OR IDENTITY VERIFICATION CHECKS
+    </div>
+    <div class="T_title_secondary">
+      {{ appName }} does not conduct criminal background or identity verification checks on its users. Though {{ appName }} strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. Use your best judgment when interacting with others and review our Safety Tips.
+    </div>
+    <div class="T_content">
+      You understand that {{ appName }} does not conduct criminal background or identity verification checks on its users or otherwise investigate the backgrounds of its users. {{ appName }} makes no representations or warranties regarding the conduct, identity, health, physical condition, intentions, legality, or authenticity of its users. {{ appName }} reserves the right (and you authorize {{ appName }} to do so) to conduct any criminal background check or other screening (e.g., sex offender registry search) at any time using available public records, and you agree that any information you provide may be used for such purpose. If the Company decides to conduct any screening through a consumer reporting agency, you hereby authorize the Company to obtain and use a consumer report about you to determine whether you qualify for these Terms.
+      <br><br>
+      You are solely responsible for your interactions with other users. We cannot and do not guarantee your safety and are not a substitute for following safety tips and other reasonable safety precautions. Always use your best judgment and take appropriate safety precautions when communicating with or meeting new people. Communications received through the Service, including automated notifications sent by {{ appName }}, may be the result of users using the Service for improper purposes, including fraud, abuse, harassment, or other such inappropriate behavior.
+      <br><br>
+      While {{ appName }} strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. You agree to exercise caution in all interactions with other users, especially when you decide to communicate outside the Service or meet in person.
+    </div>
+
+    <!-- 9 -->
+    <div class="T_title">
+      9. DISCLAIMER
+    </div>
+    <div class="T_title_secondary">
+      {{ appName }}'s Services are provided "as is" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.
+    </div>
+    <div class="T_content">
+      {{ appName }} provides our services on an “as is” and “as available” basis and, to the extent permitted by applicable law, disclaims all warranties of any kind, whether express, implied, statutory or otherwise, with respect to our services (including all content contained therein). (including all content contained therein), including, but not limited to, any implied warranties of satisfactory quality, merchantability, fitness for a particular purpose or non-infringement. {{ appName }} does not represent or warrant that: (a) our services will be uninterrupted, secure or error-free; (b) any defects or errors in our services will be discovered or corrected; or (c) any content or information you obtain on or through our services will be accurate, complete, current or fit for your purposes. In addition, {{ appName }} does not guarantee the number of active Users at any given time; the ability or desire of Users to communicate with or meet you, or the ultimate compatibility or behavior of Users you meet through the Services.
+      <br><br>
+      {{ appName }} is not responsible for any content posted, sent, received or performed by you or other Users or third parties through our Services, nor is {{ appName }} responsible for the identity, intent, legality or authenticity of any Users with whom you may communicate through {{ appName }}. Any material downloaded or otherwise obtained through the use of our Services is done at your own discretion and risk. {{ appName }} shall not be liable for any damages to your computer hardware, computer software or other equipment or technology, including, but not limited to, damages resulting from any security breach, any virus, bug, bug, tampering, hacking, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure, or any other technical or other interruption or failure.
+    </div>
+
+    <!-- 10 -->
+    <div class="T_title">
+      10. ADS AND THIRD-PARTY CONTENT
+    </div>
+    <div class="T_title_secondary">
+      You may see ads and third-party promotions on our Services. {{ appName }} does not endorse and isn’t responsible for your interactions with those products or services.
+    </div>
+    <div class="T_content">
+      Our Services may contain advertisements and promotions offered by third parties and links to other websites or resources. In addition, our Services may allow you to watch an advertisement in exchange for In-App Items; {{ appName }} does not guarantee that you will always be eligible to watch such advertisements, or that any such advertisements will be available. {{ appName }} may also provide non-commercial links or references to third parties within its content. {{ appName }} is not responsible for the availability (or lack of availability) of any external websites or resources or their content. Furthermore, {{ appName }} is not responsible for, and does not endorse, any products or services that may be offered by third-party websites or resources. If you choose to interact with the third parties made available through our Services, such party's terms will govern their relationship with you. {{ appName }} is not responsible or liable for such third parties' terms or actions.
+    </div>
+
+    <!-- 11 -->
+    <div class="T_title">
+      11. LIABILITY
+    </div>
+    <div class="T_title_secondary">
+      {{ appName }}'s liability is limited to the maximum extent allowed by applicable law.
+    </div>
+    <div class="T_content">
+      to the maximum extent permitted by applicable law, in no event shall {{ appName }}, its affiliates, employees, licensors or service providers be liable for any indirect, consequential, exemplary, incidental, special, punitive, fixed or enhanced damages, including, but not limited to, loss of profits (whether directly or indirectly caused), or any loss of data, loss of use, loss of goodwill, or other intangible loss These damages arise from: (I) your access to, use of, or inability to access or use the Services, (II) the conduct or content of any user or third party on or through any of the Services, the services of our affiliates, or in connection with the Services; or (III) any unauthorized access to, use of, or alteration of your content, even if {{ appName }} has been advised of the possibility of such damages. to the maximum extent permitted by applicable law, in no event shall {{ appName }}'s total liability to you for all claims relating to the services exceed the greater of (a) one hundred dollars ($100) or (b) the amount, if any, paid by you to {{ appName }} for the services during the twenty-four (24) month period prior to the date on which an action, arbitration, or any other proceeding is first instituted against {{ appName }} in any court, whether statutory, legal, or equitable. statutory, legal or equitable. The limitation on damages set forth in the preceding sentence applies (i) regardless of the basis of liability (whether for breach of contract, contract, tort, statute or otherwise), (ii) regardless of the type of breach of right, privilege or obligation, and (iii) to all Events, Services and this Agreement.
+      <br><br>
+      the limitation of liability provisions set forth in this section apply even if your remedies under this agreement fail of their essential purpose.
+      <br><br>
+      some jurisdictions do not allow limitations on certain damages, so some or all of the limitations in this section may not apply to you.
+    </div>
+
+    <!-- 12 -->
+    <div class="T_title">
+      12. ACCEPTANCE OF TERMS
+    </div>
+    <div class="T_title_secondary">
+      By using our Services, you accept the Terms of this Agreement.
+    </div>
+    <div class="T_content">
+      By using our Services, whether through a mobile device, mobile application or computer, you agree to be bound by: (i) these Terms as we may modify from time to time; (ii) our Privacy Policy, User Policy; and (iii) any additional terms at the time of purchase. If you do not accept and agree to be bound by all the terms of this Agreement, you are not authorized to use our Services.
+      <br><br>
+      All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, neuter, singular or plural of any entity or person to be referred to.
+      <br><br>
+    </div>
   </div>
 </template>
 
-<style scoped>
-  .protocol {
+<style  scoped>
+  .agreement {
+    padding: 10px 70px;
     font-size: 14px;
     margin-bottom: 14px;
     color: #000;
-    margin-left:6px;
-    margin-right:6px;
-    background-color: fff;
+    background-color: #fff;
   }
-  .bt {
-    font-size: 20px;
-    margin: 6px 0px;
+  .T_title_main {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 1rem 0px;
     color: #000;
+  }
+  .T_title {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 1rem 0px;
+    color: #000;
+  }
+  .T_title_secondary {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 1rem 0px;
+    color: #000;
+  }
+  .T_content {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 12px;
+    color: #0e0d0d;
   }
 </style>
