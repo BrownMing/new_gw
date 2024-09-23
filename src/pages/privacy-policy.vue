@@ -132,7 +132,7 @@ const emailAddress = '@'
 
 <style  scoped>
   .agreement {
-    padding: 10px 70rem;
+    padding: 10px 70px;
     font-size: 14px;
     margin-bottom: 14px;
     color: #000;
