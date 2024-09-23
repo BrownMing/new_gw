@@ -7,7 +7,8 @@ const emailAddress = '@'
 </script>
 
 <template>
-  <div class="agreement">
+  <div class="bg">
+    <div class="agreement">
     <div class="T_title_main">
       Privacy Policy
     </div>
@@ -127,12 +128,14 @@ const emailAddress = '@'
     </div>
 
 
+    </div>
   </div>
 </template>
 
 <style  scoped>
   .agreement {
-    padding: 10px 70px;
+    margin: 0px 70px;
+    padding: 10px 10px;
     font-size: 14px;
     margin-bottom: 14px;
     color: #000;
@@ -161,5 +164,8 @@ const emailAddress = '@'
     font-weight: 400;
     margin-bottom: 12px;
     color: #0e0d0d;
+  }
+  .bg {
+    color: #a9a9a9;
   }
 </style>
