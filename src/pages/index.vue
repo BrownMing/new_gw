@@ -7,7 +7,8 @@ const emailAddress = '@'
 </script>
 
 <template>
-  <div class="agreement">
+  <div class="bg">
+    <div class="agreement">
     <div class="T_title_main">
       Terms of Use
     </div>
@@ -261,6 +262,7 @@ By accessing or using the {{ appName }} mobile application, whether through a mo
       <br><br>
       All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, neuter, singular or plural of any entity or person to be referred to.
       <br><br>
+    </div>
     </div>
   </div>
 </template>
