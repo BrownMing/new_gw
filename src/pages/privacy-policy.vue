@@ -139,7 +139,7 @@ const emailAddress = '@'
     font-size: 14px;
     margin-bottom: 14px;
     color: #000;
-    background-color: #fff;
+    background-color: #d21313;
   }
   .T_title_main {
     font-size: 30px;
