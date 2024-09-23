@@ -267,7 +267,7 @@ By accessing or using the {{ appName }} mobile application, whether through a mo
 
 <style  scoped>
   .agreement {
-    padding: 10px 70px;
+    padding: 10px 20px;
     font-size: 14px;
     margin-bottom: 14px;
     color: #000;
@@ -296,5 +296,9 @@ By accessing or using the {{ appName }} mobile application, whether through a mo
     font-weight: 400;
     margin-bottom: 12px;
     color: #0e0d0d;
+  }
+  .bg {
+    padding: 50px 50px;
+    background-color: #F5F6F7;
   }
 </style>
