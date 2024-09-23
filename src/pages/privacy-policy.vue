@@ -134,7 +134,6 @@ const emailAddress = '@'
 
 <style  scoped>
   .agreement {
-    margin: 50px 50px;
     padding: 10px 20px;
     font-size: 14px;
     margin-bottom: 14px;
@@ -166,6 +165,7 @@ const emailAddress = '@'
     color: #0e0d0d;
   }
   .bg {
+    padding: 50px 50px;
     background-color: #F5F6F7;
   }
 </style>
