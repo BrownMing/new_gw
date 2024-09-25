@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Nuuna'
+const appName = 'Tiigo'
 const emailAddress = '@'
 </script>
 
