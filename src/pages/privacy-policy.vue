@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Tiigo'
-const emailAddress = '@'
+const emailAddress = 'hyl240807@163.com'
 </script>
 
 <template>
