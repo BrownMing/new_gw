@@ -2,8 +2,8 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Tiigo'
-const emailAddress = 'hyl240807@163.com'
+const appName = ''
+const emailAddress = '@'
 </script>
 
 <template>
