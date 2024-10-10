@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Hotto'
-const emailAddress = '@'
+const emailAddress = 'qinyihui0914@163.com'
 </script>
 
 <template>
