@@ -2,8 +2,8 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Flirtchat'
-const emailAddress = 'qinyihui0914@163.com'
+const appName = 'NewNew'
+const emailAddress = '@'
 </script>
 
 <template>
