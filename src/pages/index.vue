@@ -2,8 +2,8 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'App_Name'
-const EMAILADDRESS = 'Email_Address'
+const APPNAME = 'TokChat'
+const EMAILADDRESS = 'gaoweiyi55250@163.com'
 </script>
 
 <template>
