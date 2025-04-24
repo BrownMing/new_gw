@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'TokChat'
+const APPNAME = 'GoHere'
 const EMAILADDRESS = 'gaoweiyi55250@163.com'
 </script>
 
