@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Avola'
-const emailAddress = 'Email_Address'
+const emailAddress = 'cuiwanyu0712@163.com'
 </script>
 
 <template>
