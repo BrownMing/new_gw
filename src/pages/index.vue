@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'App_Name'
+const appName = 'Avci'
 const emailAddress = 'Email_Address'
 </script>
 
