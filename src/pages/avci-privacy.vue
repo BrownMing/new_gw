@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Avci'
-const emailAddress = 'Email_Address'
+const emailAddress = 'jiangweili@agetechltd.shop'
 </script>
 
 <template>
