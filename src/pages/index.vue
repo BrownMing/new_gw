@@ -26,8 +26,36 @@ const emailAddress = 'jiangweili@agetechltd.shop'
       </div>
 
       <!-- 1 -->
+     <div class="T_title">
+       1. Prohibit offensive content.
+      </div>
+     <div class="T_title_secondary">
+       Content specification.
+        <br><br>
+       You promise that when using this service, you will not post, disseminate or store any content that violates laws and regulations, public order and good customs or moral ethics and is offensive, including but not limited to:
+       Content involving pornography, violence, terrorism, hate speech or discrimination (based on race, religion, gender, sexual orientation, etc.);
+       Content that insults, defames, threatens, harasses others or infringes upon others' privacy;
+       Content that incites criminal activities, endangers national security or social stability;
+       False information, rumors, fraudulent content or spam (such as advertising spam);
+       Content that violates intellectual property rights (such as pirated or infringing materials).
+       Content review and processing
+       We reserve the right to conduct real-time or post-event reviews of the content posted by users. If any non-compliant content is found, we will immediately take measures such as deleting the content, restricting the use of functions, and suspending the account, without prior notice to the user.
+       If the content you post leads to complaints from third parties, administrative regulatory penalties or legal proceedings, you shall bear all responsibilities by yourself and compensate us for any losses suffered thereby (including but not limited to legal fees, litigation fees, public relations fees, etc.).
+      </div>
       <div class="T_title">
-        1. ACCOUNT ELIGIBILITY; YOUR RESPONSIBILITIES
+       2. The abuse of users and services is prohibited.
+      </div>
+      <div class="T_title_secondary">
+       User rights protection.
+        <br><br>
+       You promise not to carry out any behavior that harms the legitimate rights and interests of other users through this service, including but not limited to:
+       Maliciously registering accounts, stealing others' accounts, and creating false accounts in batches;
+       Using this service for fraud, pyramid schemes, money laundering or other illegal transactions;
+       Collecting, using or disclosing the personal information or data of other users without authorization;
+       Interfere with the normal operation of this service through technical means (such as cheats, vulnerability exploitation, malicious code, etc.).
+      </div>
+      <div class="T_title">
+        3. ACCOUNT ELIGIBILITY; YOUR RESPONSIBILITIES
       </div>
       <div class="T_title_secondary">
         Before you create an account on {{ appName }}, make sure you are eligible to use our Services. This Section also details what you can and can't do when using the Services, as well as the rights you grant {{ appName }}.
@@ -104,9 +132,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         <li>Relates to commercial activities (including, without limitation, sales, competitions, promotions, and advertising, solicitation for services, sex work, "sugar daddy" or "sugar baby" relationships, links to other websites or premium line telephone numbers);</li>
         <li>Involves or facilitates the transmission of spam;</li>
       </div>
-      <!-- 2 -->
+      <!-- 4 -->
       <div class="T_title">
-        2. CONTENT
+        4. CONTENT
       </div>
       <div class="T_title_secondary">
         It is important that you understand your rights and responsibilities with regard to the content on our Services, including any content you provide, share or post. You are expressly prohibited from posting inappropriate content.
@@ -131,9 +159,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         We grant you a limited license to access and use our content, and we reserve all other rights.
       </div>
 
-      <!-- 3 -->
+      <!-- 5 -->
       <div class="T_title">
-        3. INAPPROPRIATE CONTENT AND MISCONDUCT; REPORTING
+        5. INAPPROPRIATE CONTENT AND MISCONDUCT; REPORTING
       </div>
       <div class="T_title_secondary">
         {{ appName }} does not tolerate inappropriate content or behavior on our Services.
@@ -144,9 +172,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         As described in our Privacy Policy, we may share data among our affiliates to ensure the safety of our users. If we believe that you have violated these terms, we may take necessary action, including prohibiting you from using our Services and/or the services of our affiliates, and/or preventing you from creating new accounts. You understand and agree that we may not share information about your account with you if doing so may compromise the safety or privacy of our other users.
       </div>
 
-      <!-- 4 -->
+      <!-- 6 -->
       <div class="T_title">
-        4. RIGHTS YOU ARE GRANTED BY {{ appName }}
+        6. RIGHTS YOU ARE GRANTED BY {{ appName }}
       </div>
       <div class="T_title_secondary">
         {{ appName }} grants you the right to use and enjoy our Services, subject to these Terms.
@@ -155,9 +183,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         For as long as you comply with these Terms, {{ appName }} grants you a personal, worldwide, royalty-free, non-assignable, non-exclusive, revocable, and non-sublicensable license to access and use our Services for purposes as intended by {{ appName }} and permitted by these Terms and applicable laws. This license and any authorization to access the Service are automatically revoked in the event that you fail to comply with these Terms.
       </div>
 
-      <!-- 5 -->
+      <!-- 7 -->
       <div class="T_title">
-        5. RIGHTS YOU GRANT {{ appName }}
+        7. RIGHTS YOU GRANT {{ appName }}
       </div>
       <div class="T_title_secondary">
         You own all of the content you provide to {{ appName }}, but you also grant us the right to use Your Content as provided in this Agreement.
@@ -173,17 +201,17 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         <br><br>
       </div>
 
-      <!-- 6 -->
+      <!-- 8 -->
       <div class="T_title">
-        6. IN APP PURCHASES
+        8. IN APP PURCHASES
       </div>
       <div class="T_content">
         From time to time, {{ appName }} may offer additional products and services for purchase through the App Store ℠, Google Play or other application platforms ("in app purchases"). If you choose to make an in app purchase, you will be prompted to enter details for your account with the mobile platform you are using (e.g., Apple, Android, etc.) ("your IAP Account"), and your IAP Account will be charged for the in app purchase in accordance with the terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your IAP Account. If you purchase an auto-recurring periodic subscription through an in app purchase, your IAP Account will be billed continuously for the subscription until you cancel in accordance with the platform terms. In call cases, please refer to the terms of your application platform which apply to your in app purchases. {{ appName }} do not have any obligation to terminate your subscription or membership, but you can claim a refund or cancel the subscription through App Store or Google Play at any time.
       </div>
 
-      <!-- 7 -->
+      <!-- 9 -->
       <div class="T_title">
-        7. ACCOUNT TERMINATION
+        9. ACCOUNT TERMINATION
       </div>
       <div class="T_title_secondary">
         If you no longer wish to use our Services, or if we terminate your account for any reason, here's what you need to know.
@@ -196,9 +224,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         If your account is terminated by you or by {{ appName }} for any reason, these Terms continue and remain enforceable between you and {{ appName }}, and you will not be entitled to any refund for purchases made. Your information will be maintained and deleted in accordance with our Privacy Policy.
       </div>
 
-      <!-- 8 -->
+      <!-- 10 -->
       <div class="T_title">
-        8. NO CRIMINAL BACKGROUND OR IDENTITY VERIFICATION CHECKS
+        10. NO CRIMINAL BACKGROUND OR IDENTITY VERIFICATION CHECKS
       </div>
       <div class="T_title_secondary">
         {{ appName }} does not conduct criminal background or identity verification checks on its users. Though {{ appName }} strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. Use your best judgment when interacting with others and review our Safety Tips.
@@ -211,9 +239,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         While {{ appName }} strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. You agree to exercise caution in all interactions with other users, especially when you decide to communicate outside the Service or meet in person.
       </div>
 
-      <!-- 9 -->
+      <!-- 11 -->
       <div class="T_title">
-        9. DISCLAIMER
+        11. DISCLAIMER
       </div>
       <div class="T_title_secondary">
         {{ appName }}'s Services are provided "as is" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.
@@ -224,9 +252,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         {{ appName }} is not responsible for any content posted, sent, received or performed by you or other Users or third parties through our Services, nor is {{ appName }} responsible for the identity, intent, legality or authenticity of any Users with whom you may communicate through {{ appName }}. Any material downloaded or otherwise obtained through the use of our Services is done at your own discretion and risk. {{ appName }} shall not be liable for any damages to your computer hardware, computer software or other equipment or technology, including, but not limited to, damages resulting from any security breach, any virus, bug, bug, tampering, hacking, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure, or any other technical or other interruption or failure.
       </div>
 
-      <!-- 10 -->
+      <!-- 12 -->
       <div class="T_title">
-        10. ADS AND THIRD-PARTY CONTENT
+        12. ADS AND THIRD-PARTY CONTENT
       </div>
       <div class="T_title_secondary">
         You may see ads and third-party promotions on our Services. {{ appName }} does not endorse and isn’t responsible for your interactions with those products or services.
@@ -235,9 +263,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         Our Services may contain advertisements and promotions offered by third parties and links to other websites or resources. In addition, our Services may allow you to watch an advertisement in exchange for In-App Items; {{ appName }} does not guarantee that you will always be eligible to watch such advertisements, or that any such advertisements will be available. {{ appName }} may also provide non-commercial links or references to third parties within its content. {{ appName }} is not responsible for the availability (or lack of availability) of any external websites or resources or their content. Furthermore, {{ appName }} is not responsible for, and does not endorse, any products or services that may be offered by third-party websites or resources. If you choose to interact with the third parties made available through our Services, such party's terms will govern their relationship with you. {{ appName }} is not responsible or liable for such third parties' terms or actions.
       </div>
 
-      <!-- 11 -->
+      <!-- 13 -->
       <div class="T_title">
-        11. LIABILITY
+        13. LIABILITY
       </div>
       <div class="T_title_secondary">
         {{ appName }}'s liability is limited to the maximum extent allowed by applicable law.
@@ -250,9 +278,9 @@ const emailAddress = 'jiangweili@agetechltd.shop'
         some jurisdictions do not allow limitations on certain damages, so some or all of the limitations in this section may not apply to you.
       </div>
 
-      <!-- 12 -->
+      <!-- 14 -->
       <div class="T_title">
-        12. ACCEPTANCE OF TERMS
+        14. ACCEPTANCE OF TERMS
       </div>
       <div class="T_title_secondary">
         By using our Services, you accept the Terms of this Agreement.
