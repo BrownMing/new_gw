@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Levia'
-const emailAddress = 'jiangweili@agetechltd.shop'
+const emailAddress = 'yghwzh01@163.com'
 </script>
 
 <template>
