@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Minglo'
-const emailAddress = 'cuiwanyu0712@163.com'
+const emailAddress = 'shaolianghu@jcchennuo.shop'
 </script>
 
 <template>
