@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Callinx'
-const emailAddress = 'zhengxiaohan7817@163.com'
+const emailAddress = 'yanhui1029fang@163.com'
 </script>
 
 <template>
