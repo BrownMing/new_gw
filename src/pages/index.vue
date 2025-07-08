@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'SnapJaz'
-const emailAddress = 'shaolianghu@jcchennuo.shop'
+const emailAddress = 'lmyzy050804@163.com'
 </script>
 
 <template>
