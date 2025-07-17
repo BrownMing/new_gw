@@ -2,8 +2,8 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'SnapJaz'
-const emailAddress = 'lmyzy050804@163.com'
+const appName = 'Taggo'
+const emailAddress = 'y2309773096@163.com'
 </script>
 
 <template>
