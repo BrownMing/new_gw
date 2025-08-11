@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Glifa'
-const emailAddress = 'zhaoxinlei9352@163.com'
+const emailAddress = 'liuxuanyi0482@163.com'
 </script>
 
 <template>
