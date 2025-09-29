@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Faniy'
-const emailAddress = 'BrimeyerLinker2297@outlook.com'
+const emailAddress = 'PesaventoFagg4311@outlook.com'
 </script>
 
 <template>
@@ -36,7 +36,7 @@ const emailAddress = 'BrimeyerLinker2297@outlook.com'
       </div>
       <div class="T_content" style="padding-left: 35px;">
         <li>
-          You are an individual (i.e., not any body corporate, partnership or other business entity) at least 17 years old;
+          You are an individual (i.e., not any body corporate, partnership or other business entity) at least 18 years old;
         </li>
         <li>
           You are not on any list of individuals prohibited from conducting business with the United States (for example, the U.S. Treasury Department’s list of Specially Designated Nationals or any similar government agency list) nor do you face any other similar prohibition);
@@ -165,7 +165,7 @@ const emailAddress = 'BrimeyerLinker2297@outlook.com'
       <div class="T_content">
         By creating an account, you grant to {{ appName }} a worldwide, perpetual, transferable, sub-licensable, royalty-free right and license to host, store, use, copy, display, reproduce, adapt, edit, publish, translate, modify, reformat, incorporate into other works, advertise, distribute and otherwise make available to the general public Your Content, including any information you authorize us to access from any other third-party sources (if applicable), in whole or in part, and in any way and in any format or medium currently known or developed in the future. {{ appName }}'s license to Your Content shall be non-exclusive, except that {{ appName }}'s license shall be exclusive with respect to derivative works created through use of our Services. For example, {{ appName }} would have an exclusive license to screenshots of our Services that include Your Content.
         <br><br>
-        In addition, so that {{ appName }} can prevent the use of Your Content outside of our Services, you authorize {{ appName }} to act on your behalf with respect to infringing uses of Your Content taken from our Services by other users or third parties. This expressly includes the authority, but not the obligation, to send notices pursuant to 17 U.S.C. § 512(c)(3) (i.e., DMCA Takedown Notices) on your behalf if Your Content is taken and used by third parties outside of our Services. {{ appName }} is not obligated to take any action with regard to use of Your Content by other users or third parties. {{ appName }}'s license to Your Content is subject to your rights under applicable law (for example, laws regarding personal data protection to the extent the content contains personal information as defined by those laws).
+        In addition, so that {{ appName }} can prevent the use of Your Content outside of our Services, you authorize {{ appName }} to act on your behalf with respect to infringing uses of Your Content taken from our Services by other users or third parties. This expressly includes the authority, but not the obligation, to send notices pursuant to 18 U.S.C. § 512(c)(3) (i.e., DMCA Takedown Notices) on your behalf if Your Content is taken and used by third parties outside of our Services. {{ appName }} is not obligated to take any action with regard to use of Your Content by other users or third parties. {{ appName }}'s license to Your Content is subject to your rights under applicable law (for example, laws regarding personal data protection to the extent the content contains personal information as defined by those laws).
         <br><br>
         In consideration for {{ appName }} allowing you to use our Services, you agree that we, our affiliates, and our third-party partners may place advertising on our Services. By submitting suggestions or feedback to {{ appName }} regarding our Services, you agree that {{ appName }} may use and share such feedback for any purpose without compensating you.
         <br><br>

@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'Faniy'
-const emailAddress = 'BrimeyerLinker2297@outlook.com'
+const emailAddress = 'PesaventoFagg4311@outlook.com'
 </script>
 
 <template>
@@ -115,7 +115,7 @@ const emailAddress = 'BrimeyerLinker2297@outlook.com'
         9. Age restriction
       </div>
       <div class="T_content">
-        When you use {{ appName }} Services, you guarantee that you are 17 years of age or the age of majority in your country/region of residence (or the legal age of majority in your jurisdiction) or older. If you are a minor or under the legal age of majority (a "minor" or "child"), please do not send us any data about yourself, including your name, address, telephone number or email address.
+        When you use {{ appName }} Services, you guarantee that you are 18 years of age or the age of majority in your country/region of residence (or the legal age of majority in your jurisdiction) or older. If you are a minor or under the legal age of majority (a "minor" or "child"), please do not send us any data about yourself, including your name, address, telephone number or email address.
       </div>
 
       <!-- 10 -->
